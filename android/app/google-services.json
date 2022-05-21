@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028091661610",
+    "project_id": "wowgrocery",
+    "storage_bucket": "wowgrocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028091661610:android:876dfe20977c5ddd9a6253",
+        "android_client_info": {
+          "package_name": "com.wowgrocery.package"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028091661610-kciio3gef0oh7a4be5i88t1hb229a42h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGoreXRSnkcpR30J3wL9tKaTOvfvOSwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028091661610-kciio3gef0oh7a4be5i88t1hb229a42h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
